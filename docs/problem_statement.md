@@ -91,3 +91,15 @@ In the long term, such structured knowledgebases are essential for surveillance,
 
 AMR is not limited by lack of data — it is limited by **poor data organization and usability**.  
 This project directly targets that limitation using bioinformatics, data science, and reproducible research principles.
+
+
+## 6. Defined Scope of the Initial Version
+
+The initial version of the AMR KnowledgeBase will focus on:
+- Bacterial antimicrobial resistance
+- Gene-level resistance mechanisms
+- Publicly available, curated data sources
+- Structured tabular and relational data formats
+
+This phased approach ensures data quality, reproducibility, and realistic implementation within an academic and portfolio-driven timeline.
+
