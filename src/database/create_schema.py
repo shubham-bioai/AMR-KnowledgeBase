@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS resistance_genes (
 cursor.execute("""
 CREATE TABLE IF NOT EXISTS antibiotics (
     antibiotic_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    antibioticotic_name TEXT NOT NULL,
+   antibiotic_name TEXT NOT NULL,
     drug_class TEXT,
     target TEXT
 );
